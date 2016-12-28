@@ -1,0 +1,21 @@
+/*!
+ *  Violet Lite v.1.0
+ *  Import all components
+ */
+
+@import url("bootstrap.css");
+@import url("bootstrap-select.css");
+@import url("materialadmin.css");
+@import url("font-awesome.css");
+@import url("material-design-iconic-font.css");
+@import url("picto-iconic-font.css");
+@import url("material-custom.css");
+
+@import url("libs/facebox/facebox.css");
+@import url("libs/toastr/toastr.css");
+@import url("libs/bootstrap-datepicker/datepicker3.css");
+@import url("libs/rickshaw/rickshaw.css");
+@import url("libs/morris/morris.core.css");
+@import url("libs/select2/select2.css");
+@import url("libs/multi-select/multi-select.css");
+@import url("libs/bootstrap-datepicker/datepicker3.css");
